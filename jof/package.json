@@ -1,0 +1,22 @@
+{
+  "name": "cypressjs",
+  "version": "1.0.0",
+  "description": "labCypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catherinerlopezv/Cypress-.git"
+  },
+  "keywords": [
+    "********"
+  ],
+  "author": "Catherine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catherinerlopezv/Cypress-/issues"
+  },
+  "homepage": "https://github.com/catherinerlopezv/Cypress-#readme"
+}
